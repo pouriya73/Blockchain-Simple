@@ -17,3 +17,8 @@ for error max_user_watches
 ```
 sudo sysctl fs.inotify.max_user_watches=582222 && sudo sysctl -p
 ```
+install package SHA256
+---
+```
+npm i crypto-js --save
+```
