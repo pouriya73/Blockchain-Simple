@@ -22,3 +22,8 @@ install package SHA256
 ```
 npm i crypto-js --save
 ```
+install package test block
+-----
+```
+npm i jest --save-dev
+```
