@@ -2,8 +2,8 @@
 Build a simple and basic Blockchain
 
 
-start in Server Terminal 
-
-`
+start : terminal create init
+----
+```
 npm init -y
-`
+```
