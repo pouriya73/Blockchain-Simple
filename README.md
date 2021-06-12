@@ -32,3 +32,8 @@ install express
 ```
 npm i express --save
 ```
+install package body-parser
+----
+```
+npm i body-parser --save
+```
